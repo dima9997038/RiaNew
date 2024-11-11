@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.90b70e51.css",
-    "main.js": "/static/js/main.7b18bdd9.js",
+    "main.js": "/static/js/main.30a0285d.js",
     "static/js/453.a19fbfc0.chunk.js": "/static/js/453.a19fbfc0.chunk.js",
     "static/media/office-paper.png": "/static/media/office-paper.f2652ec37b4312048214.png",
     "static/media/office-paper-roll.png": "/static/media/office-paper-roll.9aa15c5dc29a6506c834.png",
@@ -16,11 +16,11 @@
     "static/media/paperOffice2.jpg": "/static/media/paperOffice2.6ceda7f5236297893d0b.jpg",
     "index.html": "/index.html",
     "main.90b70e51.css.map": "/static/css/main.90b70e51.css.map",
-    "main.7b18bdd9.js.map": "/static/js/main.7b18bdd9.js.map",
+    "main.30a0285d.js.map": "/static/js/main.30a0285d.js.map",
     "453.a19fbfc0.chunk.js.map": "/static/js/453.a19fbfc0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.90b70e51.css",
-    "static/js/main.7b18bdd9.js"
+    "static/js/main.30a0285d.js"
   ]
 }

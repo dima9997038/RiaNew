@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.90b70e51.css",
-    "main.js": "/static/js/main.1f5af27d.js",
+    "main.js": "/static/js/main.7a93a9c0.js",
     "static/js/453.a19fbfc0.chunk.js": "/static/js/453.a19fbfc0.chunk.js",
     "static/media/office-paper-roll.png": "/static/media/office-paper-roll.9aa15c5dc29a6506c834.png",
     "static/media/format-paper.png": "/static/media/format-paper.3b3a614c420407df1d9a.png",
@@ -14,13 +14,14 @@
     "static/media/coated-cardboard3.png": "/static/media/coated-cardboard3.e4ae5d660912cd1b01c8.png",
     "static/media/light-coated-paper.png": "/static/media/light-coated-paper.8265b90de2a51818a415.png",
     "static/media/paperOffice2.jpg": "/static/media/paperOffice2.6ceda7f5236297893d0b.jpg",
+    "static/media/carton-mel.jpg": "/static/media/carton-mel.3433a97bf1ee3d6b5d1a.jpg",
     "index.html": "/index.html",
     "main.90b70e51.css.map": "/static/css/main.90b70e51.css.map",
-    "main.1f5af27d.js.map": "/static/js/main.1f5af27d.js.map",
+    "main.7a93a9c0.js.map": "/static/js/main.7a93a9c0.js.map",
     "453.a19fbfc0.chunk.js.map": "/static/js/453.a19fbfc0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.90b70e51.css",
-    "static/js/main.1f5af27d.js"
+    "static/js/main.7a93a9c0.js"
   ]
 }
